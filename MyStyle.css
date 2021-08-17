@@ -1,5 +1,6 @@
 body {
 	font-family: 'Brush Script MT', cursive;
+    font-size: 100px;
 }
 
 h1 {
@@ -8,7 +9,7 @@ h1 {
 }
 
 p {
-	font-size: 100%;
+	font-size: 200%;
 }
 
 h2 {
